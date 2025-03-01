@@ -1,0 +1,2 @@
+C:/Users/LENOVO/Music/Cloned Repos/Spark-IQ/spark_iq/android/app/.cxx/Debug/2e6y6pk1/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Music/Cloned Repos/Spark-IQ/spark_iq/android/app/.cxx/Debug/2e6y6pk1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
